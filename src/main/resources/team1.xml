@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<team>
+    <employee>
+        <name>Ivan</name>
+        <profession>QA</profession>
+        <salary>500</salary>
+    </employee>
+    <employee>
+        <name>Sidr</name>
+        <profession>Developer</profession>
+        <salary>1000</salary>
+    </employee>
+    <employee>
+        <name>Todd</name>
+        <profession>PM</profession>
+        <salary>1500</salary>
+    </employee>
+    <totalSalary>3000</totalSalary>
+    <totalQA>1</totalQA>
+    <totalDev>1</totalDev>
+    <totalPM>1</totalPM>
+</team>
